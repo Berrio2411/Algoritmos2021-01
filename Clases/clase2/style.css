@@ -1,0 +1,43 @@
+body{
+    background-color: cornsilk;
+}
+header{
+    background-color: rgb(175, 121, 121);
+    height: 10vh;
+    text-align: center;
+}
+header > h1 {
+    font-size: 5em;
+    margin-top: 0px;
+    text-transform: uppercase ;
+
+}
+
+main{
+    padding:0px ;
+}
+#Comidas{
+    background-color: silver;
+    padding: 3%;
+    text-align: left;
+}
+
+#comidas-img-1{
+    margin: 0px;
+    text-align: center;
+}
+#comidas-img-1 > figcaption{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(61, 97, 99);
+    min-height: 5vh;
+    text-align: center;
+}
+footer>address>a {
+    font-size: 2em;
+    color: seashell;
+    text-transform: uppercase;
+
+}

@@ -22,12 +22,45 @@ main{
     text-align: left;
 }
 
-#comidas-img-1{
+#Comidas-img-1{
     margin: 0px;
     text-align: center;
+
 }
-#comidas-img-1 > figcaption{
+
+.titulo-españa{
+    font-size: 4rem;
+    transition: 2s;
+
+}
+.titulo-españa:hover{
+    background-color: royalblue;
+}
+
+#Comidas-img-1 > figcaption{
     text-align: center;
+}
+#Comidas-img-1>figcaption{
+    font-size: 2rem;
+}
+#España>h2{
+    font-size: 4rem;
+}
+
+.content-fig{
+    widows: 50vw; ;
+    height: 45vh;
+}
+
+#España>ul>li{
+    font-size: 3rem;
+}
+#img-Paella > img{
+    widows: 40vw; ;
+    height:38vh ;
+}
+#img-Paella> figcaption{
+    font-size:3.5rem ;
 }
 
 footer{

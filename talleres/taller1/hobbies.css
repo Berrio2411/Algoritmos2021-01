@@ -1,0 +1,70 @@
+body{
+    background-color: silver;
+}
+header{
+    background-image: url("./images.jpg");
+    height: 40vh;
+    text-align: center;
+}
+header > h1 {
+    font-size: 5em;
+    margin-top: 0px;
+    text-transform: uppercase ;
+
+}
+
+main{
+    padding:0px ;
+}
+#Hobbies{
+    background-color: silver;
+    padding: 3%;
+    text-align: left;
+}
+
+#Hobbiess-img-1{
+    margin: 0px;
+    text-align: center;
+
+}
+
+.titulo-ajedrez{
+    font-size: 2rem;
+    transition: 2s;
+
+}
+.titulo-ajedrez{
+    background-image: url(./descarga\ \(3\).jpg);
+    height: 30vh
+    
+}
+
+.titulo-astronomia{
+    background-image: url(./descarga\ \(5\).jpg);
+    height: 30vh;
+}
+.titulo-rap{
+
+    background-image: url(./descarga\ \(8\).jpg);
+    height: 30vh;
+}
+.titulo-genética{
+    background-image: url(./2725980418.jpg); 
+    height: 35vh;
+}
+.titulo-fútbol{
+    background-image: url(./muchos\ balones.jpg);
+    height: 30vh;
+}
+
+footer{
+    background-color: rgb(61, 97, 99);
+    min-height: 5vh;
+    text-align: center;
+}
+footer>address>a {
+    font-size: 2em;
+    color: seashell;
+    text-transform: uppercase;
+
+}

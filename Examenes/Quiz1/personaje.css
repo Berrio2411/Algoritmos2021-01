@@ -1,0 +1,54 @@
+body{
+    background-color: silver;
+}
+header{
+    background-image: url(./heliocentrismo.gif);
+    height: 40vh;
+    text-align: center;
+}
+header > h1 {
+    font-size: 5em;
+    margin-top: 0px;
+    text-transform: uppercase ;
+
+}
+
+main{
+    padding:0px ;
+}
+
+
+
+
+.titulo-biografía{
+    font-size: 2rem;
+    transition: 2s;
+
+}
+.titulo-biografía{
+    background-image: url(./astronomio-e1566947377365.jpg);
+    height: 45vh
+    
+}
+
+.titulo-teoría{
+    background-image: url(./260px-Astronomia_en_el_Ren..jpg);
+    height: 30vh;
+}
+.titulo-admiro{
+    background-image: url(./images\ \(2\).jpg);
+    height: 40vh;
+}
+
+
+footer{
+    background-color: rgb(61, 97, 99);
+    min-height: 5vh;
+    text-align: center;
+}
+footer>address>a {
+    font-size: 2em;
+    color: seashell;
+    text-transform: uppercase;
+
+}

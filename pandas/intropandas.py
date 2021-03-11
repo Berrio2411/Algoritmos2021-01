@@ -9,7 +9,7 @@ dicGanancias = {}
 dicGanancias['Enero'] = 4300
 dicGanancias['Febrero'] = 4545
 dicGanancias['Marzo'] = 2324
-dicGanancias['Abril'] = 1244
+dicGanancias['Abril'] = 1244   
 seriesGananciaPorMes = pd.Series([4300,4545,2324,1244])
 print (seriesGananciaPorMes)
 seriesGananciaPorMesDic = pd.Series (dicGanancias)

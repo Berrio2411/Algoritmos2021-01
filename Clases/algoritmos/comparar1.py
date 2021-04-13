@@ -1,6 +1,6 @@
 import time
 import ordenamiento_burbuja as ob
-import ordenamiento_insercion as oi
+import ordenamiento_incercion as oi
 import random as r 
 
 lista = []
@@ -35,4 +35,4 @@ print(deltaSort)
 print(deltaOb)
 print(deltaOi)
 print(deltaSort >= deltaOb)
-print(deltaSort >= deltaOi
+print(deltaSort >= deltaOi)

@@ -7,4 +7,4 @@
 
 def  sucesión ( n ):
     return ( 2 ** ( n - 1 )) +  3 
-print ( sucesion ( 5 ))
+print ( sucesión ( 5 ))

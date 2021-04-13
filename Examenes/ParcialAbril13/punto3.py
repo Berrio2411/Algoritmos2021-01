@@ -7,5 +7,5 @@ print ( sucesión ( 5 ))
 #Numeral B
 #3,5,7,9,11
 def  sucesión ( n ):
-    return ( 2**(n))+3
+    return ( 2*n)+3
 print ( sucesión ( 4 ))

@@ -52,3 +52,5 @@ dicVentasPorMes = {
 print ("#"*60)
 dataFrameVentas = pd.DataFrame (dicVentasPorMes, index = ['Tomates', 'Papa', 'Yuca'])
 print (dataFrameVentas.iloc[2]) 
+
+
